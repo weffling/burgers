@@ -5,3 +5,4 @@ oignons
 cornichon
 ketchup
 moutarde
+piment
